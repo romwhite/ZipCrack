@@ -1,5 +1,5 @@
 # ZipCrack
-Dictionary attack on password protected Zip files
+Python3 - Dictionary attack on password protected Zip files
 
 ## Usage
 usage: ZipCrack.py [-h] zipfile wordlist extractpath
